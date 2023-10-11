@@ -1,0 +1,16 @@
+/* Testing ground for CSS styling in Odin Recipes */
+
+* {
+    font-family: sans-serif;
+    background-color: #F8F7F7;
+}
+
+#title {
+    text-align: center;
+
+}
+
+.main {
+    color: #F8F7F7;
+    background-color: #46584B;
+}
