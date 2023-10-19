@@ -2,17 +2,33 @@
 
 * {
     font-family: sans-serif;
-    background-color: #F8F7F7;
+    background-color: #BEAA9D;
 }
 
 #title {
     text-align: center;
     width: 400px;
     margin: auto;
-
+    padding: 10px;
+    border: 5px;
+    border-style: solid;
+    border-color: #371305;
 }
 
 .main {
     color: #F8F7F7;
-    background-color: #46584B;
+    margin: 8px;
+}
+
+.recipes,
+#title {
+    background-color: #AC8165;
+}
+.recipes {
+    border-color: #371305;
+    border-style: solid;
+    margin: 8px;
+    padding: 10px;
+    width: 33%;
+    color: #F8F7F7;
 }
