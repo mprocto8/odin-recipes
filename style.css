@@ -11,6 +11,13 @@ body {
     flex-direction: column;
 }
 
+.recipe-list {
+    display: flex;
+    flex-direction: row;
+    flex: content;   
+}
+
+
 #title {
     text-align: center;
     width: 400px;
