@@ -3,6 +3,12 @@
 * {
     font-family: sans-serif;
     background-color: #BEAA9D;
+    
+}
+
+body {
+    display: flex;
+    flex-direction: column;
 }
 
 #title {
