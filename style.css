@@ -15,9 +15,9 @@ body {
 .recipe-list {
     display: flex;
     flex-direction: row; 
-    justify-content: space-evenly;
-    align-items: flex-start;
-      
+    justify-content: center;
+    align-items: flex-start;  
+    gap: 50px;
 }
 
 
@@ -45,6 +45,7 @@ body {
     border-color: #371305;
     border-style: solid;
     padding: 10px;
-    width: 33%;
+    width: auto;
     color: #F8F7F7;
+    align-items: flex-start;
 }
